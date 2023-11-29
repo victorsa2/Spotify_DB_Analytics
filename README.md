@@ -2,10 +2,10 @@
 
 ## Engenharia de Dados com Databricks: Extração, Tratamento e Análise de Dados
 
-"Spotify.pylab"
+"Spotify.ipynb"
 Exploração e tratamento da base de dados do Spotify
 
-
+"Recomendador_Musica.ipynb"
 Criando um sistema de recomendação de Playlist, baseado nas características de uma música ouvida pelo usuário.
 
 ## OBS.: gráficos plotados
