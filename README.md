@@ -1,6 +1,6 @@
 # Databricks
 
-## Engenharia de Dados com Databricks: Extração, Tratamento e Análise de Dados
+## Engenharia de Dados com Databricks: Extração, Tratamento, Análise de Dados e Machine Learning
 
 "Spotify.ipynb"
 Exploração e tratamento da base de dados do Spotify
