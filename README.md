@@ -9,7 +9,7 @@ Exploração e tratamento da base de dados do Spotify
 Criando um sistema de recomendação de Playlist, baseado nas características de uma música ouvida pelo usuário.
 
 ## OBS.: Recomendador_Musica.ipynb
-Por ter sido desenvolvido na versão community, a última linha de comando não pode ser executada, por ser um gráfico pesado e acaba impossibilitando a exportação do notebook. Por isso, segue abaixo o print do gráfico:
+Os gráficos não são mostrados nos arquivos, pois foram exportados de notebooks do databricks community. Por isso deixarei as imagens dos gráficos obtidos na análise de dados abaixo:
 
 fig = px.scatter(projection_kmeans.toPandas(), x='x', y='y', color='cluster_pca', hover_data=['artists_song'])
 fig.show()
